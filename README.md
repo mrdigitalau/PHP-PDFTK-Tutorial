@@ -6,8 +6,7 @@ Learn how to fill a fillable PDF in PHP using PDFTK
 
 Watch this video
 
-
-
+* [Video Tutorial on YouTube](https://www.youtube.com/watch?v=SJNCc2GwREA)
 
 ### Prerequisites
 
@@ -24,15 +23,14 @@ You will need to install PDFtk Server on your web server for this to work
 
 * **Sean Freitas** [Mr Digital](https://www.youtube.com/channel/UCrGZCgKfpPANtEG0bHESUOA)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Developers of PDFtk
+* Mike Haertl who created the PHP library
+
+
 
